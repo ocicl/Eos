@@ -1,0 +1,10 @@
+* Eos
+
+UNMAINTAINED Test Framework
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/adlai/Eos.git   |
+| commit  | b4413bc  |
+| systems | Eos |
+|---------+-------------------------------------------|
+
